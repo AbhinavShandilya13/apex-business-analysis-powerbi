@@ -78,19 +78,13 @@ With the cleaned dataset in place, targeted SQL queries were developed to answer
 
 ---
 
-## 📈 Executive Summary
+## 🎯 The Outcome
 
-### Overview of Findings
-
-After peaking in late 2020, APEX experienced a sustained decline in sales performance, with the most significant drops occurring in 2022. Key performance indicators showed notable year-over-year decreases:
-
-- **Order Volume:** ↓ ~40%  
-- **Revenue:** ↓ ~46%  
-- **Average Order Value (AOV):** ↓ ~10%  
-
-While part of this decline aligns with post-pandemic normalization of consumer behavior, deeper analysis highlights additional contributing factors and opportunity areas.
-
-
+- **Revenue Decline:** Following a sales peak in **December 2020**, revenue declined by **~46%**, driven by a **~40%** drop in order volume and a **~10%** decrease in Average Order Value (AOV).
+- **Baseline Stability:** Despite recent declines, full-year **2022** performance remained above the pre-2019 baseline.
+- **Concentration Risk:** Identified high product concentration risk, with a small number of premium product categories generating the majority of orders and revenue.
+- **Category Shifts:** While accessories increased as a share of order volume, they remained a minor contributor to total revenue.
+- **Executive Dashboard:** Consolidated these findings into an interactive dashboard to guide strategic product diversification and revenue recovery.
 
 <img width="1506" height="804" alt="image" src="https://github.com/user-attachments/assets/8a0f5b58-2a0d-4d5e-95ff-9981f2a6a940" />
 
